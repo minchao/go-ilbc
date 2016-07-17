@@ -18,7 +18,6 @@ int decode(unsigned char *data, int dataOffset, int dataLength,
 */
 import "C"
 import (
-	"bytes"
 	"unsafe"
 )
 
